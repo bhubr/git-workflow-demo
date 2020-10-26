@@ -2,7 +2,8 @@ import React from 'react';
 
 function Homepage() {
   return (
-    <div>
+    <div className="Homepage">
+      <h1>Welcome to Git Workflow Demo</h1>
 
     </div>
   )
